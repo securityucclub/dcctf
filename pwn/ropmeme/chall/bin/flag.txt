@@ -1,0 +1,1 @@
+DCCTF{pwn_c0ld3st_c4t3g0ry}
