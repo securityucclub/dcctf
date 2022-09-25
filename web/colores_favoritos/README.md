@@ -1,5 +1,6 @@
 # Colores favoritos
 Dificultad: fácil
+
 Autor: [a-maccormack](https://github.com/a-maccormack)
 
 
