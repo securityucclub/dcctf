@@ -1,0 +1,68 @@
+version: '3'
+
+#Services
+services:
+  pgdb:
+    image: postgres
+    container_name: pgdb
+    environment: 
+      - POSTGRES_DB=ctf
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=password
+
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -d $${POSTGRES_DB} -U $${POSTGRES_USER}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  backend:
+    container_name: backend
+    build:
+      context: ./chall/core_backend
+      args:
+        #Django credentials for deployment: 
+        SECRET_KEY: "ctf2w2#zuoo43m9a@j*r1529ab^-5_wdsea-$$+k()@ry#lxv8b"
+    
+        #Postgres (Change credentials for deployment): 
+        POSTGRES_TABLE_NAME: ctf
+        POSTGRES_USER: user
+        POSTGRES_PASSWORD: password
+        POSTGRES_HOST: pgdb
+        POSTGRES_PORT: 5432
+
+        DEBUG: 0
+        HTTPS: 0
+        DJANGO_SETTINGS_MODULE: core_backend.settings
+
+    ports: 
+      - "8000:8000"
+
+    depends_on:
+      pgdb:
+        condition: service_healthy
+
+  frontend:
+    build:
+      context: ./chall/frontend
+      args: 
+        REACT_APP_API_URL: "http://127.0.0.1/api"
+        GENERATE_SOURCEMAP: 0
+    volumes:
+      [react_build:/react-frontend/build]
+    stdin_open: true
+
+  nginx:
+    image: nginx:latest
+    ports: 
+      ["80:8080"]
+      
+    volumes:
+      - ./chall/nginx/nginx-proxy.conf:/etc/nginx/conf.d/default.conf:ro
+      - react_build:/var/www/react-frontend
+    depends_on:
+      - backend
+      - frontend
+  
+volumes:
+  react_build:
