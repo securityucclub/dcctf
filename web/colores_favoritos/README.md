@@ -18,4 +18,4 @@ Usuarios:
 #tbd
 ```
 
-Flag: `dcctf{noob_x03659_W3B}`
+Flag: `DCCTF{noob_x03659_W3B}`
