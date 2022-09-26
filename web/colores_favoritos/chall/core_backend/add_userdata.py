@@ -3,7 +3,7 @@ import psycopg2, os
 data = [
     {'usuario': 'Tflow', 'contrasena': 'contraseñasegura123', 'color_favorito': 'magenta'},
     {'usuario': 'satoshi', 'contrasena': 'helloworld@', 'color_favorito': 'rojo'},
-    {'usuario': 'admin', 'contrasena': 'dcctf{noob_x03659_W3B}', 'color_favorito': 'que te importa'},
+    {'usuario': 'admin', 'contrasena': 'DCCTF{noob_x03659_W3B}', 'color_favorito': 'que te importa'},
     {'usuario': 'Kingpin', 'contrasena': 'contraseñasegura123', 'color_favorito': 'verde'},
     {'usuario': 'geohot', 'contrasena': '#@|#1dqjidq', 'color_favorito': 'naranjo'},
     {'usuario': 'snowden', 'contrasena': 'dHw87d21g8^3', 'color_favorito': 'azul'},
