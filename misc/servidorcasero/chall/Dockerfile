@@ -1,0 +1,18 @@
+FROM ubuntu:22.04
+
+RUN apt-get update && apt-get -y dist-upgrade && \
+    apt-get install -y lib32z1 xinetd sudo
+
+RUN useradd -m ctf
+
+COPY ./ctf.xinetd /etc/xinetd.d/ctf
+COPY ./start.sh /start.sh
+RUN echo "Blocked by ctf_xinetd" > /etc/banner_fail
+COPY sudoers /etc/sudoers
+COPY flag.txt /root
+
+RUN chmod +x /start.sh
+
+CMD ["/start.sh"]
+
+EXPOSE 5000
