@@ -1,10 +1,10 @@
 # Nombre: `malabares`
-### Dificultad: `facil`
+### Dificultad: `fácil`
 ### Categoría: `web`
-### Autor: [c4ebt](https://c4ebt.github.io/)
+### Autor: [Cae](https://c4ebt.github.io/)
 ### Flag: `DCCTF{typ3_juggling_it_i5!}`
 
-### Descripcion:
+### Descripción:
 Un estudiante quiere hacer su propia pagina web con sistema de login y todo, pero apenas sabe programar... Tuvo que hacer malabares para lograr que funcionara lo basico de lo basico. Se buena onda y no lo hackees porfa... [hostname]:7890/index.php
 
 ### Hint:

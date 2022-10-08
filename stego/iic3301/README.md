@@ -1,10 +1,10 @@
 # Nombre: `iic3301`
-### Dificultad: `facil`
+### Dificultad: `fácil`
 ### Categoría: `stego`
-### Autor: [c4ebt](https://c4ebt.github.io/)
+### Autor: [Cae](https://c4ebt.github.io/)
 ### Flag: `DCCTF{iic3301_pr3curs0r_d3_cic4d4}`
 
-### Descripcion:
+### Descripción:
 Cicada 3301: "el enigma más elaborado y misterioso de la era del internet". Una serie de acertijos publicados por una organización secreta para encontrar "individuos altamente inteligentes". Todo efecto tiene una causa: ¿de dónde salieron los miembros originales de Cicada? Quizá esa sea una pregunta que vive mejor sin respuesta...
 
 ### Hint:

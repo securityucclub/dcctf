@@ -1,10 +1,10 @@
 # Nombre: `Valid`
-### Dificultad: `facil`
+### Dificultad: `media`
 ### Categoría: `rev`
-### Autor: [c4ebt](https://c4ebt.github.io/)
+### Autor: [Cae](https://c4ebt.github.io/)
 ### Flag: `DCCCTF{r3v3rs3and0_l4_vid4}`
 
-### Descripcion:
+### Descripción:
 La mejor contraseña es la que ni el usuario conoce. Podrás validar la contraseña en este desafío?
 
 ### Solución:
