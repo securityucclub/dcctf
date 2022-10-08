@@ -9,7 +9,6 @@ RUN apt-get update && apt-get -y dist-upgrade && \
 RUN service apache2 start
 COPY ./files/index.php /var/www/html
 COPY ./files/flag.php /var/www/html
-COPY ./files/robots.txt /var/www/html
 COPY ./files/source.zip /var/www/html
 
 COPY ./start.sh /start.sh
