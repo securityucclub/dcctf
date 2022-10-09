@@ -1,11 +1,11 @@
-# Nombre: `Valid`
+# Nombre: `oscuridad`
 ### Dificultad: `fácil`
 ### Categoría: `rev`
 ### Autor: [Cae](https://c4ebt.github.io/)
 ### Flag: `DCCTF{n0_c41g4s_3n_l4_0scur1d4d}`
 
 ### Descripción:
-El codigo de los Sith es oscuro... te perderás en la oscuridad, o lograrás iluminar la fuerza?
+El código de los Sith es oscuro... te perderás en la oscuridad, o lograrás iluminar la fuerza?
 
 ### Hint
 No te marees y prueba todo lo que se te ocurra.

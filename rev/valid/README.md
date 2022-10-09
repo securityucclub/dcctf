@@ -1,4 +1,4 @@
-# Nombre: `Valid`
+# Nombre: `valid`
 ### Dificultad: `media`
 ### Categoría: `rev`
 ### Autor: [Cae](https://c4ebt.github.io/)
