@@ -8,10 +8,11 @@ RUN useradd -m ctf
 COPY ./ctf.xinetd /etc/xinetd.d/ctf
 COPY ./start.sh /start.sh
 RUN echo "Blocked by ctf_xinetd" > /etc/banner_fail
-COPY sudoers /etc/sudoers
-COPY flag.txt /root
+COPY ./sudoers /etc/sudoers
+COPY ./flag.txt /root/flag.txt
 
 RUN chmod +x /start.sh
+RUN chmod 400 /root/flag.txt
 
 CMD ["/start.sh"]
 

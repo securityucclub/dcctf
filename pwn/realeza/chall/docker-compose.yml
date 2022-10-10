@@ -1,6 +1,6 @@
 version: '2.4'
 services:
-  abofeteame:
+  realeza:
     build: .
     ports:
       - 5002:5000

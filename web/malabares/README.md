@@ -8,7 +8,7 @@
 Un estudiante quiere hacer su propia pagina web con sistema de login y todo, pero apenas sabe programar... Tuvo que hacer malabares para lograr que funcionara lo básico de lo básico. Se buena onda y no lo hackees porfa... `malabares.dcctf.xyz/index.php`
 
 ### Hint:
-`Entre malabar y malabar al estudiante se le escaparon unos robots`
+```Los comentarios que se escuchan acerca de este sitio...```
 
 ### Solución:
 
