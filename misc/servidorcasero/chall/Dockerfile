@@ -4,6 +4,7 @@ RUN apt-get update && apt-get -y dist-upgrade && \
     apt-get install -y lib32z1 xinetd sudo
 
 RUN useradd -m ctf
+RUN echo "ctf:ctf" | chpasswd
 
 COPY ./ctf.xinetd /etc/xinetd.d/ctf
 COPY ./start.sh /start.sh
