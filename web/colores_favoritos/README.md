@@ -5,7 +5,7 @@ Autor: [a-maccormack](https://github.com/a-maccormack)
 
 
 ## Descripción
-`challs.dcctf.xyz:80`
+`104.237.138.109:80`
 
 Usuarios:
 - `Tflow`

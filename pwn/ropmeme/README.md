@@ -5,7 +5,7 @@
 ### Flag: `DCCTF{pwn_c0ld3st_c4t3g0ry}`
 
 ### Descripción:
-Recuperamos este binario de los tiempos en que Intro a la Progra se hacía en C y lo pusimos a correr en `ropmeme.dcctf.xyz:5001`. Un montón de novatos programando en un lenguaje sin memory safety; que podría salir mal?
+Recuperamos este binario de los tiempos en que Intro a la Progra se hacía en C y lo pusimos a correr en `104.237.138.109:5001`. Un montón de novatos programando en un lenguaje sin memory safety; que podría salir mal?
 
 ### Hint 1:
 `man gets`

@@ -5,7 +5,7 @@
 ### Flag: `DCCTF{b0f_l4_b4se_d3_t0d0_3xpl0it}`
 
 ### Descripción:
-La reina ha muerto, dejando tras de sí un sinnúmero de secretos a los que solo la realeza puede acceder a través de este portal. Podrás hackearlo? `nc challs.dcctf.xyz 5002`
+La reina ha muerto, dejando tras de sí un sinnúmero de secretos a los que solo la realeza puede acceder a través de este portal. Podrás hackearlo? `nc 104.237.138.109 5002`
 
 ### Hint 1:
 `buffer overflow`

@@ -5,7 +5,7 @@
 ### Flag: `DCCTF{typ3_juggling_it_i5!}`
 
 ### Descripción:
-Un estudiante quiere hacer su propia pagina web con sistema de login y todo, pero apenas sabe programar... Tuvo que hacer malabares para lograr que funcionara lo básico de lo básico. Se buena onda y no lo hackees porfa... `challs.dcctf.xyz:7890/index.php`
+Un estudiante quiere hacer su propia pagina web con sistema de login y todo, pero apenas sabe programar... Tuvo que hacer malabares para lograr que funcionara lo básico de lo básico. Se buena onda y no lo hackees porfa... `104.237.138.109:7890/index.php`
 
 ### Hint:
 ```Los comentarios que se escuchan acerca de este sitio...```
