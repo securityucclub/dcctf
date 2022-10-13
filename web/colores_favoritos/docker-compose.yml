@@ -46,7 +46,7 @@ services:
     build:
       context: ./chall/frontend
       args: 
-        REACT_APP_API_URL: "http://127.0.0.1/api"
+        REACT_APP_API_URL: "http://104.237.138.109:3000/api"
         GENERATE_SOURCEMAP: 0
     volumes:
       [react_build:/react-frontend/build]
