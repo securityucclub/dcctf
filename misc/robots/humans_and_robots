@@ -1,0 +1,38 @@
+#  _(\    |@@|
+# (__/\__ \--/ __
+#    \___|----|  |   __
+#        \ }{ /\ )_ / _\
+#        /\__/\ \__O (__
+#       (--/\--)    \__/
+#       _)(  )(_
+#      `---''---`
+
+User-agent: *
+
+Dissallow: /Device/cybertechnology/ai
+Dissallow: /Configuration_section/ip/in_observatory
+Dissallow: /Computing/code_monkey
+    Dissallow: /Tools/focused
+    Dissallow: /Firewall/arithmometer/kemper
+
+Dissallow-all: {
+
+    Dissallow: /Firmware
+    Dissallow: /Information
+    Dissallow: /Rootkit/teleprogramming
+        Dissallow: /Stream_video/cyberintrusion
+        Dissallow: /Teleprocessing/peter_j._denning
+
+    Dissallow: /Login/subdirectory
+        Dissallow: /Escape_key/procedure/puter
+        Dissallow: /Technical_support/subdirectory
+        Dissallow: /Turing_machine/microcomputer
+        Dissallow: /Electronic_transaction/home_computer/compunications
+    
+    Dissallow: /Rootkit/firmware
+        Dissallow: /Server/focused_on
+
+Dissallow-all: }
+
+User-agent: robot
+Disallow: /

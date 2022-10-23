@@ -1,0 +1,511 @@
+#     (\____/)
+#      (_oo_)
+#        (O)
+#      __||__    \)
+#   []/______\[] /
+#   / \______/ \/
+#  /    /__\
+# (\   /____\
+
+User-agent: *
+Dissallow: /computerlike
+Dissallow: /working
+Dissallow: /document/baros/computerlike
+Dissallow: /specialized
+      Dissallow: /purchase_agreement
+    Dissallow: /misclick
+  Dissallow: /information_science/multinetwork
+    Dissallow: /analysis
+      Dissallow: /medical/information_processing_system
+  Dissallow: /well
+  Dissallow: /disk
+Dissallow: /latour
+Dissallow: /studying/interactive/focuses
+Dissallow: /wave_clip
+      Dissallow: /psychology
+      Dissallow: /information_age/take_to
+Dissallow: /von_neumann_machine/microcomputer
+Dissallow: /laboratory
+Dissallow: /in_your_room/technological
+Dissallow: /example/tv_tuner
+Dissallow: /to_order
+  Dissallow: /netzine
+Dissallow: /programs
+    Dissallow: /softmodem/life_science/cyberdating
+Dissallow: /machine_code/cyberphilosophy/learning
+  Dissallow: /human/multiprogramming
+    Dissallow: /video_card
+    Dissallow: /netzine/computer_system
+Dissallow: /dental_care/cope_with
+  Dissallow: /purchase_price/expert
+Dissallow: /serial_number/antivirus
+  Dissallow: /assembler/video
+    Dissallow: /cybersavvy/working
+      Dissallow: /system/library
+Dissallow: /positioner/ai/e-mail
+  Dissallow: /computerize
+    Dissallow: /spreadsheet
+Dissallow: /foreign_office/hertha/digital_computer
+    Dissallow: /numerical_analysis
+      Dissallow: /computational_complexity_theory/appender
+  Dissallow: /access_internet/experience
+    Dissallow: /system/turing_machine/kemper
+      Dissallow: /multinetwork/psychology
+Dissallow: /organise
+      Dissallow: /home_computer
+  Dissallow: /telnet/scientist/ambimoustrous
+      Dissallow: /pessimize/cursor/data
+      Dissallow: /technological/computerbased/economics
+Dissallow: /education/pseudocode
+      Dissallow: /harvard/clickless/computerdom
+      Dissallow: /configuration_section/in_your_room
+  Dissallow: /secondary_school
+    Dissallow: /encode/biocomputing/chiclet_keyboard
+  Dissallow: /graduate/ontology/von_neumann_machine
+Dissallow: /society
+    Dissallow: /institute/computer/telnet
+Dissallow: /works/wardialer/stefani
+Dissallow: /more_or_less/hand_over
+  Dissallow: /graphic_card/softmodem/dongle
+      Dissallow: /mischa/eprom/focused_on
+Dissallow: /lippi/phase_ii/rootkit
+Dissallow: /cyberintrusion
+Dissallow: /online
+Dissallow: /intranet/armenians/ip
+Dissallow: /disc
+    Dissallow: /hertha/based
+Dissallow: /logic
+Dissallow: /analysis/innovation/cpu
+Dissallow: /information/buffer/carry_out
+  Dissallow: /enterprise
+      Dissallow: /pseudocode/secondary_school
+Dissallow: /more_or_less/wardialer
+  Dissallow: /configuration_section/arithmometer/chemistry
+    Dissallow: /rise_to/compy/business
+    Dissallow: /join_forces/dongle
+  Dissallow: /quakers/memory_chip
+  Dissallow: /fall_on
+Dissallow: /ip/logic
+      Dissallow: /minicomputer/pixel/object
+Dissallow: /wave_clip/works
+Dissallow: /learning
+Dissallow: /printer
+      Dissallow: /hertha/azerbaijani/bitness
+      Dissallow: /secondary_school
+      Dissallow: /tools
+Dissallow: /sanskrit
+Dissallow: /trust_company
+      Dissallow: /web/mouseclick
+      Dissallow: /desktop/c.p.u.
+  Dissallow: /computer_hardware/cybersystem
+    Dissallow: /e_transaction
+Dissallow: /expansion_slot/microcomputer/air_mass
+Dissallow: /computational_problem/computer_circuit/cache
+Dissallow: /silkmen/computational_problem
+    Dissallow: /open_source/well/devices
+Dissallow: /english_language/researchers
+Dissallow: /cybergeneration/graduate
+Dissallow: /focuses/open_source/touchpad
+Dissallow: /investment_company
+Dissallow: /compiler/see_off/computer_programming
+Dissallow: /machine/cpu
+Dissallow: /video_card/cybertechnology/ai
+Dissallow: /object/ip/in_observatory
+    Dissallow: /computing/code_monkey
+Dissallow: /configuration_section/focused
+Dissallow: /software/arithmometer/kemper
+Dissallow: /microcode/supercomputer
+Dissallow: /educational/mouseclick/systems
+    Dissallow: /science/code_monkey
+      Dissallow: /allocation
+Dissallow: /lippi/teaching/art
+Dissallow: /cyberdating/cyberjunkie/city_editor
+Dissallow: /dongle/subprogram/teaching
+  Dissallow: /cybersavvy
+Dissallow: /digital_computer/data_process
+  Dissallow: /adware
+Dissallow: /microcomputer/cyberpsychology
+  Dissallow: /using/works
+  Dissallow: /computer_hardware
+  Dissallow: /ambimoustrous/software_engineer/data
+  Dissallow: /tech/computing
+Dissallow: /integrated/directory
+Dissallow: /wave_clip
+    Dissallow: /techie/parameter/applications
+    Dissallow: /dumb_terminal/automation/scientist
+Dissallow: /debugger
+      Dissallow: /graphic_card/factor_in/laptop
+Dissallow: /expert/noncomputer/interactive
+  Dissallow: /information_science/virtualize
+Dissallow: /host/prepare_for
+Dissallow: /compy/precomputer
+    Dissallow: /escape_key/board_of_trustees/computerlike
+    Dissallow: /abacus/pixel/parameter
+Dissallow: /cpu/south_american/uses
+Dissallow: /graphician/code/telecommuter
+Dissallow: /kemper
+Dissallow: /serial_number
+Dissallow: /university/computational_complexity_theory/with_confidence
+    Dissallow: /machinima
+Dissallow: /utility_program/economics
+Dissallow: /graphic_card/cyber/counter
+Dissallow: /hostmaster
+  Dissallow: /graphic_card
+Dissallow: /pessimize/video
+    Dissallow: /disc
+Dissallow: /motherboard/compute
+Dissallow: /software_engineer/move_in/ontology
+Dissallow: /information_age/teleprocessing
+Dissallow: /lippi/firmware/more_or_less
+Dissallow: /english_language/adware/real_property
+Dissallow: /analog_computer
+Dissallow: /expansion_slot
+Dissallow: /digital_communication/in_your_room/new
+      Dissallow: /computer_engineering
+  Dissallow: /menu/open_source
+Dissallow: /dongle/software_engineering
+Dissallow: /abacus
+  Dissallow: /pel
+    Dissallow: /enter_into
+Dissallow: /head/object
+Dissallow: /meatware/machinima/quakers
+Dissallow: /teleprogrammed/compiler/pixel
+  Dissallow: /technological/state_bank
+      Dissallow: /access_internet
+      Dissallow: /gnome/insurance_company
+Dissallow: /medical
+      Dissallow: /killer_poke/cisc
+    Dissallow: /dongle
+    Dissallow: /sneakernet/multinetwork
+Dissallow: /neurocomputer/c.p.u.
+Dissallow: /computational_complexity_theory/core/see_off
+Dissallow: /latour
+Dissallow: /host/foreign_office
+      Dissallow: /montag/web_server
+Dissallow: /computational_complexity_theory/home_computer/technical_support
+  Dissallow: /old_girl/antivirus
+Dissallow: /capital_budget/guest
+Dissallow: /hackathon/knowledge/focused_on
+  Dissallow: /supercomputer
+Dissallow: /teleprogramming/computeritis/focused
+Dissallow: /system
+  Dissallow: /laptop/technologies/software_engineering
+Dissallow: /computation/pel
+Dissallow: /logon/teleprogramming/process_information
+      Dissallow: /technologies
+    Dissallow: /appender/c.p.u./killer_poke
+  Dissallow: /cyberintrusion/program/in_your_room
+Dissallow: /incrementor/system/cyberdating
+    Dissallow: /architecture/ambimoustrous
+Dissallow: /software/city_editor/multimedia
+Dissallow: /intranet
+Dissallow: /computational_problem
+    Dissallow: /take_to
+Dissallow: /in_re/abacus/appeal_board
+Dissallow: /computerize
+Dissallow: /cybertechnology
+Dissallow: /knowledge/computer_graphic
+    Dissallow: /silvestre
+Dissallow: /innovation/life_science/medical
+  Dissallow: /electronic_computer/foreground/bios
+      Dissallow: /ip/enterprise/enterprise
+Dissallow: /lippi/quality_assurance/multiprogramming
+Dissallow: /email
+      Dissallow: /digital/studying/teleprocessing
+  Dissallow: /scancode/turing_machine
+      Dissallow: /rom/hand_over/von_neumann_machine
+Dissallow: /cybereducation/monitor/mainframe
+  Dissallow: /computer_graphic
+Dissallow: /access_internet/hackathon/medical
+Dissallow: /hertha
+Dissallow: /jambos/disc/data_converter
+    Dissallow: /wardialer
+  Dissallow: /pda/software_engineer
+Dissallow: /bloatware
+    Dissallow: /information_science/escape_key
+      Dissallow: /personal_information/hostmaster
+Dissallow: /machine_code
+Dissallow: /developed/personal_property
+Dissallow: /murder_suspect
+Dissallow: /microprocessor
+      Dissallow: /focuses/computational_geometry
+Dissallow: /computer_simulation/take_to/disc
+    Dissallow: /cybergeneration/developed
+Dissallow: /at_internet_cafe/allow_for
+  Dissallow: /known_as/simulation
+Dissallow: /hertha/baros/accumulator
+    Dissallow: /to_order/graphic_card
+Dissallow: /submenu/misclick/head
+  Dissallow: /computerdom/noncomputer/cybernetic
+Dissallow: /bbs/computerism/hot_stock
+    Dissallow: /do_well/hackathon
+Dissallow: /firewall
+Dissallow: /graphician/visual_display_unit
+Dissallow: /working/background_process/e-mail
+Dissallow: /bios/chemistry/computerologist
+      Dissallow: /innovation/interoperability
+Dissallow: /eprom/silvestre/cybernetic
+Dissallow: /host
+      Dissallow: /motherboard
+  Dissallow: /old_girl/router/settle_for
+Dissallow: /do_well/business
+      Dissallow: /specialized
+      Dissallow: /download_manager/noncomputer
+    Dissallow: /baros/informatics/ibm
+      Dissallow: /cyberjargon/computerbased
+Dissallow: /directory/science/chief_financial_officer
+      Dissallow: /cyberinteraction
+  Dissallow: /silkmen
+    Dissallow: /bbs
+    Dissallow: /journalism/human
+Dissallow: /computer_engineering
+Dissallow: /mouseclick/meatware/with_confidence
+Dissallow: /foreign_office/focusing
+Dissallow: /personal_property/hardware
+    Dissallow: /logic/programs/digital_computer
+Dissallow: /sneakernet/jambos
+      Dissallow: /programmable
+      Dissallow: /limited_partnership
+Dissallow: /computation
+Dissallow: /online/computerology
+Dissallow: /personal_information/word_processor
+Dissallow: /colly
+      Dissallow: /enterprise/scientific
+Dissallow: /stream_video/minicomputer/multimedia
+  Dissallow: /factor_in/data_converter
+Dissallow: /based
+Dissallow: /example/peter_j._denning
+  Dissallow: /compy/emulation
+Dissallow: /tool
+Dissallow: /subprogram
+      Dissallow: /personal_information
+Dissallow: /lippi/address
+Dissallow: /guidance/port/appender
+Dissallow: /peripheral/example/technical_support
+Dissallow: /technology
+  Dissallow: /allow_for
+  Dissallow: /wave_clip/fulbright/dumb_terminal
+    Dissallow: /machinima/organise/directory
+Dissallow: /investment_company/teleprogrammed
+Dissallow: /knowledge
+  Dissallow: /push_on/experimental
+    Dissallow: /factor_in
+  Dissallow: /instance/computer_aid_design
+Dissallow: /supercomputer/city_centre/firmware
+      Dissallow: /programs/biology/uploader
+    Dissallow: /netzine/fulbright
+Dissallow: /positioner/computerism/enter_into
+  Dissallow: /enterprise/memex
+Dissallow: /human/human
+Dissallow: /email/mischa
+      Dissallow: /city_editor/expert/email
+    Dissallow: /computing/cope_with/system
+Dissallow: /online/optimizer
+Dissallow: /programmer
+Dissallow: /machinima
+  Dissallow: /innovative/algorithm
+    Dissallow: /disc/information_age
+      Dissallow: /chief_financial_officer
+Dissallow: /computerologist/cyberjunkie/cybernetics
+    Dissallow: /secondary_school/calculator
+  Dissallow: /subprogram/firmware/backup
+Dissallow: /utility_program/panel
+Dissallow: /science/computational_problem
+Dissallow: /cybernetics
+Dissallow: /hackathon/working/informatics
+Dissallow: /chiclet_keyboard
+    Dissallow: /cyberphilosophy/teleprogrammed
+Dissallow: /computerize/cyberinteraction/multinetworked
+    Dissallow: /antivirus
+Dissallow: /colly
+    Dissallow: /well/downloader
+      Dissallow: /phase_ii
+      Dissallow: /fall_into/data_converter/old_girl
+Dissallow: /computer_circuit
+Dissallow: /push_on/machine
+Dissallow: /break_into
+      Dissallow: /writing/firewall
+Dissallow: /old_girl
+    Dissallow: /guest
+Dissallow: /medical/enter_into/focus
+      Dissallow: /wave_clip/port
+    Dissallow: /focused/analysis
+      Dissallow: /multimedia
+Dissallow: /cyberjunkie/antivirus/digital
+    Dissallow: /cyberjargon
+Dissallow: /digital_computer
+Allow: /humans_and_robots
+      Dissallow: /numerical_analysis
+Dissallow: /configuration_section/art/pel
+Dissallow: /computerdom
+Dissallow: /silkmen
+    Dissallow: /guidance/sneakernet
+Dissallow: /expansion_slot/teletype
+    Dissallow: /guest/silkmen/concepts
+      Dissallow: /counter/interactive
+      Dissallow: /metaprogramming
+Dissallow: /tools
+      Dissallow: /machine_code
+Dissallow: /digital_communication/computing_device/document
+Dissallow: /window
+    Dissallow: /incrementor/core
+Dissallow: /journalism
+      Dissallow: /bring_down/procedure
+      Dissallow: /interoperability/code
+Dissallow: /hostmaster/cyberintrusion/polanski
+    Dissallow: /data_path
+Dissallow: /download_manager
+  Dissallow: /video/quiche_eater/computable
+Dissallow: /educational
+      Dissallow: /pixel/cyberinteraction/allocation
+Dissallow: /human/secondary_school
+  Dissallow: /innovation/assembler
+Dissallow: /engineering/laptop/computer_aid_design
+  Dissallow: /researchers/computer_graphics/organise
+    Dissallow: /hertha/in_your_room/intranet
+Dissallow: /hertha
+  Dissallow: /multiprogramming
+  Dissallow: /computer_engineering
+    Dissallow: /share_in/panel/english_language
+Dissallow: /emulation/desktop
+Dissallow: /peter_j._denning/share_in/computerdom
+Dissallow: /ground_water/computation
+  Dissallow: /purchase_price/casini/cybernetic
+      Dissallow: /multinetwork
+      Dissallow: /learning/insurance_company/journalism
+      Dissallow: /quakers
+    Dissallow: /compute
+      Dissallow: /bring_down/psychology/real_property
+      Dissallow: /technical/pessimize/based
+    Dissallow: /predictor/guidance/information
+Dissallow: /multiload
+Dissallow: /c.p.u./data
+  Dissallow: /submenu/eprom/techie
+Dissallow: /cyberdating
+Dissallow: /mainframe/basic/natural_resource
+Dissallow: /phase_out
+  Dissallow: /software/extranet
+Dissallow: /programmer/engineering
+    Dissallow: /computer/machine_code/drill_hole
+    Dissallow: /multitask/biology/hostmaster
+Dissallow: /logon/video
+  Dissallow: /sophisticated/do_well/well
+Dissallow: /encode/hertha
+      Dissallow: /teleinstruction/secondary_school
+Dissallow: /hot_stock/library/latour
+Dissallow: /adware/scancode
+      Dissallow: /educational/download_manager
+      Dissallow: /working/escape_key
+    Dissallow: /printer/telecomputer
+Dissallow: /computer_aid_design
+    Dissallow: /power_station/risc/management
+      Dissallow: /journalism/firewall
+Dissallow: /digital_communication/programming_language/life_science
+    Dissallow: /information_superhighway/information_processing_system/techniques
+Dissallow: /program
+Dissallow: /devices/psychology/artificial_intelligence
+Dissallow: /compunications/computerism/mouseclick
+    Dissallow: /learning/c.p.u./software
+Dissallow: /softlifting/cyberintrusion/programmer
+  Dissallow: /online
+    Dissallow: /tax_bill/montag/ground_water
+Dissallow: /minicomputer/data_converter
+Dissallow: /analysis/computerologist/computerbased
+Dissallow: /gnome/ip
+Dissallow: /microcode
+Dissallow: /with_confidence
+    Dissallow: /guest
+Dissallow: /metaprogram/purchase_agreement
+      Dissallow: /intranet
+      Dissallow: /predictor/monitor
+Dissallow: /filename/technology/chemistry
+Dissallow: /background_process/machine
+Dissallow: /move_into/tv_tuner/escape_key
+  Dissallow: /disc/call_off/quality_assurance
+  Dissallow: /backup/motherboard
+    Dissallow: /teletype
+  Dissallow: /kemper/foreign_office/filename
+Dissallow: /cash_dividend/spreadsheet
+    Dissallow: /focus
+      Dissallow: /multinetworked/window
+Dissallow: /media
+    Dissallow: /new/join_forces
+Dissallow: /peripheral_device
+Dissallow: /bbs
+      Dissallow: /appeal_board
+    Dissallow: /debugger/escape_key/chief_financial_officer
+Dissallow: /physics/to_order/pel
+  Dissallow: /cyberimmortality
+Dissallow: /automation/work/memory_chip
+Dissallow: /air_mass/enter_into/programmable
+Dissallow: /bbs/procedure
+Dissallow: /microcomputer/scientist
+Dissallow: /tv_tuner/computer_aid_design
+Dissallow: /silkmen/cybernetic
+  Dissallow: /firmware/video_card/tv_tuner
+Dissallow: /appeal_board/pointer/download_manager
+Dissallow: /computing_machine/nonprogramming
+  Dissallow: /library
+Dissallow: /architecture
+    Dissallow: /cyberjargon/wardialer/programmable
+Dissallow: /prepare_for/ascii/at_internet_cafe
+Dissallow: /see_off/quakers
+Dissallow: /netzine/computer_programming
+Dissallow: /cyberintrusion
+Dissallow: /mainframe/pointer/communication
+Dissallow: /security_system/scancode
+Dissallow: /carry_out
+Dissallow: /object/antivirus
+Dissallow: /limited_partnership/desktop/well_in
+    Dissallow: /rise_to/enter_into
+    Dissallow: /telecomputer
+Dissallow: /allow_for/nanocomputer
+      Dissallow: /data_process/investment_trust
+Dissallow: /favoured/word_processor/computerism
+Dissallow: /computational
+Dissallow: /machine_code
+    Dissallow: /real_property/cyberterrorism/electronic
+  Dissallow: /calculator
+Dissallow: /directory
+      Dissallow: /sciences
+Dissallow: /multimedia/colly
+Dissallow: /rise_to/counterprogramming
+Dissallow: /techie/bpi/cyberdating
+    Dissallow: /cyberdating
+Dissallow: /machine_code/computercide/electronic_computer
+Dissallow: /sophisticated
+      Dissallow: /calculator/killer_poke/business
+  Dissallow: /power_station
+Dissallow: /risc
+Dissallow: /alpha_test/computer_aid_design/laboratory
+    Dissallow: /society/central_process_unit/education
+  Dissallow: /parameter/cybersavvy/tech
+    Dissallow: /von_neumann_machine/computerlike/design
+Dissallow: /ambimoustrous/login/graphic_card
+Dissallow: /c.p.u./neurocomputer
+    Dissallow: /custody_battle/fall_into/misclick
+  Dissallow: /graduate
+  Dissallow: /chemistry/bbs/programmable
+Dissallow: /numerical_analysis/computer_architecture/incrementor
+      Dissallow: /arithmometer/system/database_management_system
+  Dissallow: /colly
+      Dissallow: /purchase_agreement/art/communication
+    Dissallow: /teleprogrammed
+Dissallow: /physics/wave_clip
+      Dissallow: /web_server/cyberpunk
+Dissallow: /cyberimmortality/directory/ibook
+Dissallow: /computational_problem/noncomputer
+  Dissallow: /computerdom/background_process
+Dissallow: /lab/minicomputer
+Dissallow: /davids/firmware/factor_in
+  Dissallow: /teaching/cope_with/integrated
+Dissallow: /cash_dividend/document
+Dissallow: /compunications
+      Dissallow: /bitness/human/background_process
+    Dissallow: /noncomputer/ibook/computer_hardware
+Dissallow: /carry_out/accumulator
+Dissallow: /rootkit
+    Dissallow: /mainframe/metaprogram
+  Dissallow: /cyberdating/pel/pel
+Dissallow: /cybergeneration
+Dissallow: /sophisticated/push_on
