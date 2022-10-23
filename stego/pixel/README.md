@@ -1,5 +1,5 @@
-# Nombre: `iic3301`
-### Dificultad: ``
+# Nombre: `Pixel`
+### Dificultad: `Medium (🃏🃏🃏)`
 ### Categoría: `stego`
 ### Autor: anon
 ### Flag: `DCCTF{m3t4d4t4_c0nt4iNs_ev3ryth1nG}`

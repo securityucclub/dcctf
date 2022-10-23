@@ -1,5 +1,5 @@
-# Nombre: `iic3301`
-### Dificultad: `fácil`
+# Nombre: `IIC3301`
+### Dificultad: `Hard (🃏🃏🃏🃏)`
 ### Categoría: `stego`
 ### Autor: [Cae](https://c4ebt.github.io/)
 ### Flag: `DCCTF{iic3301_pr3curs0r_d3_cic4d4}`
