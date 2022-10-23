@@ -1,5 +1,5 @@
 # Nombre: `Latex`
-### Dificultad: ``
+### Dificultad: `Medium (🃏🃏🃏)`
 ### Categoría: `misc`
 ### Autor: anon
 ### Flag: `DCCTF{potatoes}`

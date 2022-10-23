@@ -1,0 +1,65 @@
+<html>
+    <head>Clock</head>
+    <body>
+        <!-- DCCTF -->
+        <!-- DCCTF -->
+        <!-- DCCTF -->
+        <!-- DCCTF -->
+        <!-- DCCTF -->
+        <!-- DCCTF -->
+        <!-- DCCTF -->
+        <div style="text-align: center; margin-top: 50px; font-family: Consolas;">
+            <div> Welcome to the clock.</div><br>
+            <div>Every second you stay on this website the current time is hashed with MD5 and compared to a stored
+            hash that we selected previously.</div><br>
+            <div>There is only one second in time that represents the correct time. If you are looking at the webiste at the correct moment, you will get a message reading "this is the correct time".</div><br>
+            <div>The flag is DCCTF{th3_c0rr3ct_t1m3_is_XX:YY:ZZ} where you have to replace XX with the hours, YY with the minutes
+            and ZZ with the seconds of the correct time.</div><br>
+            <div id="clock"></div>
+            <div id="hash"></div><br>
+            <div id="info"></div>
+        </div>
+            
+        <!-- DCCTF: Ignore the script after this line -->
+        <script src="https://cdn.jsdelivr.net/gh//blueimp/JavaScript-MD5/js/md5.min.js"></script>
+        <!-- DCCTF: Ignore the script above this line -->
+        
+        <script>
+        function tick() {
+            let date = new Date();
+            let hh = date.getHours();
+            let mm = date.getMinutes();
+            let ss = date.getSeconds();
+        
+            hh = (hh < 10) ? "0" + hh : hh;
+            mm = (mm < 10) ? "0" + mm : mm;
+            ss = (ss < 10) ? "0" + ss : ss;
+        
+            let time = hh + ":" + mm + ":" + ss;
+            let hash = md5(time);
+        
+            document.getElementById("clock").innerText = time;
+            document.getElementById("hash").innerText = hash;
+        
+            if (hash == "5bc3223650036e1efe6733b585746bf8") {
+            document.getElementById("info").innerText = "This is the correct time.";
+            } else {
+            document.getElementById("info").innerText = "This is not the correct time.";
+            }
+        
+            let t = setTimeout(function () { tick() }, 1000);
+        }
+        
+        tick()
+        </script>
+        <!-- DCCTF -->
+        <!-- DCCTF -->
+        <!-- DCCTF -->
+        <!-- DCCTF -->
+        <!-- DCCTF -->
+        <!-- DCCTF -->
+        <!-- DCCTF -->
+    </body>
+</html>
+
+

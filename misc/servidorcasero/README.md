@@ -1,5 +1,5 @@
-# Nombre: `servidorcasero`
-### Dificultad: `fácil`
+# Nombre: `Servidor Casero`
+### Dificultad: `Hard (🃏🃏🃏🃏)`
 ### Categoría: `misc`
 ### Autor: [Cae](https://c4ebt.github.io/)
 ### Flag: `DCCTF{sud03rs_3s_p3l1gr0s0!}`

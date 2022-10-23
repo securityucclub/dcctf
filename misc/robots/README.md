@@ -1,5 +1,5 @@
 # Nombre: `Robots`
-### Dificultad: ``
+### Dificultad: `Hard (🃏🃏🃏🃏)`
 ### Categoría: `misc`
 ### Autor: anon
 ### Flag: `DCCTF{FIRST LETTERS}`
