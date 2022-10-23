@@ -1,5 +1,5 @@
-# Nombre: `ropmeme`
-### Dificultad: `media`
+# Nombre: `Ropmeme`
+### Dificultad: `Extreme (🃏🃏🃏🃏🃏)`
 ### Categoría: `pwn`
 ### Autor: [Cae](https://c4ebt.github.io/)
 ### Flag: `DCCTF{pwn_c0ld3st_c4t3g0ry}`

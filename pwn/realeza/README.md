@@ -1,5 +1,5 @@
-# Nombre: `realeza`
-### Dificultad: `fácil`
+# Nombre: `Realeza`
+### Dificultad: `Medium (🃏🃏🃏)`
 ### Categoría: `pwn`
 ### Autor: [Cae](https://c4ebt.github.io/)
 ### Flag: `DCCTF{b0f_l4_b4se_d3_t0d0_3xpl0it}`
