@@ -1,5 +1,5 @@
-# Nombre: `valid`
-### Dificultad: `media`
+# Nombre: `Valid`
+### Dificultad: `Extreme (🃏🃏🃏🃏🃏)`
 ### Categoría: `rev`
 ### Autor: [Cae](https://c4ebt.github.io/)
 ### Flag: `DCCCTF{r3v3rs3and0_l4_vid4}`

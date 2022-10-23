@@ -1,5 +1,5 @@
-# Nombre: `oscuridad`
-### Dificultad: `fácil`
+# Nombre: `Oscuridad`
+### Dificultad: `Hard (🃏🃏🃏🃏)`
 ### Categoría: `rev`
 ### Autor: [Cae](https://c4ebt.github.io/)
 ### Flag: `DCCTF{n0_c41g4s_3n_l4_0scur1d4d}`
