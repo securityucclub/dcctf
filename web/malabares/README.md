@@ -1,5 +1,5 @@
-# Nombre: `malabares`
-### Dificultad: `fácil`
+# Nombre: `Malabares`
+### Dificultad: `Hard (🃏🃏🃏🃏)`
 ### Categoría: `web`
 ### Autor: [Cae](https://c4ebt.github.io/)
 ### Flag: `DCCTF{typ3_juggling_it_i5!}`

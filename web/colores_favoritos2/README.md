@@ -1,14 +1,13 @@
-# Colores favoritos
-Dificultad: Extreme
-
-Autor: [a-maccormack](https://github.com/a-maccormack)
-
-Flag: `DCCTF{1_c4n_3v3n_sh3ll_ur_db!}`
+# Nombre: `Colores favoritos`
+### Dificultad: `Extreme (🃏🃏🃏🃏🃏)`
+### Categoría: `web`
+### Autor: [a-maccormack](https://github.com/a-maccormack)
+### Flag: `DCCTF{1_c4n_3v3n_sh3ll_ur_db!}`
 
 ## Descripción
 Mismo sitio, mismo input, más difícil. Ya no basta con conseguir la contraseña de admin. Debes conseguir una shell en el servidor de la base de datos.
 
-`104.237.138.109:80`
+`http://127.0.0.1:3000`
 
 ## Solución
 El sitio no tiene ningún tipo de Web-App-Firewall (WAF), por lo que es posible escribir en la base de datos y desde ahí spawnear una shell.

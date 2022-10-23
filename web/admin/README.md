@@ -1,5 +1,5 @@
-# Nombre: `admin`
-### Dificultad: ``
+# Nombre: `Admin`
+### Dificultad: `Medium (🃏🃏🃏)`
 ### Categoría: `web`
 ### Autor: anon
 ### Flag: `DCCTF{s4f3sT_p4sW0rD_0n_e4rtH}`
