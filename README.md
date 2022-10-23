@@ -4,6 +4,40 @@ https://dcctf.xyz
 ## Sponsor
 [Acid Labs](https://weareacidlabs.com/)
 
+## Challenges
+### Extreme (🃏🃏🃏🃏🃏)
+- [👾[pwn] ropmeme](/pwn/ropmeme/)
+- [↩️[rev] Valid](/rev/valid/)
+- [🌎[web] Colores Favoritos v2](/web/colores_favoritos2/)
+
+### Hard (🃏🃏🃏🃏)
+- [🎰[misc] servidorcasero](/misc/servidorcasero/)
+- [🖼️[stego] IIC3301](/stego/iic3301/)
+- [🌎[web]](/web/malabares/)
+- [↩️[rev] Oscuridad](/rev/oscuridad/)
+- [🔏[crypto] Email](/crypto/email/)
+- [🎰[misc] Robots](/misc/robots/)
+- [🧠[osint]](/osint/surf/)
+
+### Medium (🃏🃏🃏)
+- [👾[pwn] realeza](/pwn/realeza/)
+- [🌎[web] Colores Favoritos](/web/colores_favoritos/)
+- [🌎[web] Admin](/web/admin/)
+- [🎰[misc] Latex](/misc/latex/)
+- [🖼️[stego] Pixel](/stego/pixel/)
+- [🎰[misc] Sight](/misc/sight/)
+- [🎰[misc] Clock](/misc/clock/)
+
+### Easy (🃏🃏)
+- [🌎[web] Arcade](/web/arcade/)ç
+- [🎰[misc] 1000](/misc/1000/)
+- [🎰[misc] Extension](/misc/extension/)
+- [🎰[misc] Search](/misc/search/)
+
+### Starter (🃏)
+- [📰[rules] Rules](/RULES.md)
+- [🎰[misc] Flag](/misc/flag/)
+
 ## Scoreboard
 | Place | User                 | Score    |
 |-------|----------------------|----------|
