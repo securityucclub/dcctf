@@ -1,6 +1,8 @@
 # DCCTF 2022
 https://dcctf.xyz
 
+![](logo.png)
+
 ## Sponsor
 [Acid Labs](https://weareacidlabs.com/)
 
