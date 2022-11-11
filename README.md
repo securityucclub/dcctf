@@ -31,7 +31,7 @@ https://dcctf.xyz
 - [🎰[misc] Clock](/misc/clock/)
 
 ### Easy (🃏🃏)
-- [🌎[web] Arcade](/web/arcade/)ç
+- [🌎[web] Arcade](/web/arcade/)
 - [🎰[misc] 1000](/misc/1000/)
 - [🎰[misc] Extension](/misc/extension/)
 - [🎰[misc] Search](/misc/search/)
